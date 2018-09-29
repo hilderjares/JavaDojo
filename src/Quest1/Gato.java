@@ -9,9 +9,10 @@ package Quest1;
  *
  * @author Francisco Hilderjares
  */
-public class Gato extends Animal{
+public class Gato extends Animal {
     boolean mia;
+    
     public boolean mia(){
       return mia; 
-}
+    }
 }
