@@ -10,7 +10,6 @@ package Quest1;
  * @author Francisco Hilderjares
  */
 public class Cachorro extends Animal {
-
     boolean late;
 
     public boolean late() {
